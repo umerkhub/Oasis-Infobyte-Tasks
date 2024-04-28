@@ -10,3 +10,13 @@ Now assuming that we have the measurements of the Iris flowers according to thei
 It focuses on Iris Flower classification using machine learning and scikit tools. 
 Using Logistic Regression Model approach to identify the different species of iris flowers.
 At the end of the project we will be able to recognize the  family / species of the flower by just sepal,petal lengths and widths.
+
+
+Modules used -
+<ul>
+<li>pandas</li>
+<li>matplotlib</li>
+<li>seaborn</li>
+<li>plotly</li>
+</ul>
+<hr>
